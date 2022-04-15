@@ -10,7 +10,7 @@ do{
 alert("Serão necessários "+ano+" anos");
 console.aler("Serão necessários "+ano+" anos");*/
 
-var anacl = 1.50, all = 0.02, felis = 1.10, all2 = 0.03, ano = 1;
+var anacl = 1.50, all = 0.02, felis = 1.10, all2 = 0.03, ano = 0;
 function altura(anacl, all, felis, all2, ano){
 	do{
 		anacl = anacl + all;
